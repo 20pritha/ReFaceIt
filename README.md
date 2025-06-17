@@ -74,10 +74,3 @@ Facial sketches are often the only visual reference in criminal investigations w
 * [Face Sketch Recognition - ResearchGate Overview](https://www.researchgate.net/publication/341631538_Face_Sketch_Recognition-An_Overview)
 
 ---
-
-## 📽️ Demo
-
-> Model inference outputs realistic face images when fed with sketch inputs.
-> Visualization included in the final presentation deck.
-
----
