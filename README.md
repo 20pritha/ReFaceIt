@@ -1,21 +1,6 @@
 # ReFaceIt - Sketch to 2D Face Reconstruction
 
 ReFaceIt is a deep learning project that converts hand-drawn facial sketches into realistic facial photos using Generative Adversarial Networks (GANs). Designed to assist in law enforcement and forensic applications, the model reconstructs faces to aid in suspect identification and investigations where no real photos are available.
-
-## 👥 Team
-
-Group 6 | Mentored by: Kanav Sabharwal
-**Faculty In-Charge**: Dr. Amir Hussain
-
-**Team Members:**
-
-* Pritha Mishra
-* Advika Lakshman
-* Arronya Pal
-* Dhruv Bhagat
-* Sushyanth Mohan
-* Vignesh RV
-
 ---
 
 ## 🧠 Problem Statement
